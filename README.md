@@ -19,7 +19,6 @@ This application leverages the following key technologies:
 ### Prerequisites
 
 Before getting started, ensure you have the following installed on your machine:
-- A 2024 MacBook Air running macOS
 - [Homebrew](https://brew.sh/) (for package management)
 - [Git](https://git-scm.com/)
 - [Terraform](https://www.terraform.io/downloads)
